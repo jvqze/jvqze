@@ -7,4 +7,4 @@
 
 👨‍💻 Student Developer\
 📖 Studying Computer Science & Enjoying my _great_ life!\
-⭐ **Current Project:** [loaf](https://github.com/loafBOT/loaf) (private)
+⭐ **Current Project (for fun):** [fe2.jaylen.nyc & jaylen.nyc](https://github.com/jvqze/jaylen.nyc)
