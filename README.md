@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a huge interest fo
 
 - 🔭 I’m currently working on [FE2 Audio Uploader](https://github.com/jvqze/FE2-Audio-Uploader)
 - 🌱 I’m currently learning Software Development (Backend)
-- 👯 I’m looking/able to collaborate on any web development projects or anything you may need help on
-
 ## 🚀 Technologies & Tools I'm familiar with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
